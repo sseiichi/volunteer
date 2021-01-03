@@ -1,2 +1,2 @@
 # bibliography
-The repository about how to input book information.
+This repository instructs how to input book information.
